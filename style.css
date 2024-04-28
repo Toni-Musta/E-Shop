@@ -82,7 +82,7 @@ header{
 	z-index: 10001;
 	margin-left: 10px;
 	cursor: pointer;
-	display: block;
+	display: none;
 }
 
 section{
